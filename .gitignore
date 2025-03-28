@@ -1,0 +1,1 @@
+-e "target/\n.idea/\n*.iml\n.classpath\n.settings/\n.DS_Store" 

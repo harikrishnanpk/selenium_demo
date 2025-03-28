@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-28T14:54:13 IST" name="Experion Test Suite" finished-at="2025-03-28T14:55:00 IST" duration-ms="47424">
+    <groups>
+    </groups>
+    <test started-at="2025-03-28T14:54:13 IST" name="ChromeTests" finished-at="2025-03-28T14:55:00 IST" duration-ms="47424">
+      <class name="com.experion.tests.AutomatedScenario">
+        <test-method is-config="true" signature="setUp(java.lang.String,org.testng.ITestResult)[pri:0, instance:com.experion.tests.AutomatedScenario@568ff82]" started-at="2025-03-28T14:54:37 IST" name="setUp" finished-at="2025-03-28T14:54:38 IST" duration-ms="1089" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AutomatedScenario.VerifyTheAddToCartFeature()[pri:0, instance:com.experion.tests.AutomatedScenario@568ff82] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyTheAddToCartFeature()[pri:0, instance:com.experion.tests.AutomatedScenario@568ff82]" started-at="2025-03-28T14:54:38 IST" name="VerifyTheAddToCartFeature" finished-at="2025-03-28T14:54:40 IST" duration-ms="1910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTheAddToCartFeature -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.experion.tests.AutomatedScenario@568ff82]" started-at="2025-03-28T14:54:40 IST" name="tearDown" finished-at="2025-03-28T14:54:40 IST" duration-ms="295" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyTheAddToCartFeature status=SUCCESS method=AutomatedScenario.VerifyTheAddToCartFeature()[pri:0, instance:com.experion.tests.AutomatedScenario@568ff82] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String,org.testng.ITestResult)[pri:0, instance:com.experion.tests.AutomatedScenario@568ff82]" started-at="2025-03-28T14:54:40 IST" name="setUp" finished-at="2025-03-28T14:54:41 IST" duration-ms="824" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AutomatedScenario.VerifyTheAscendingSortingByPrice()[pri:0, instance:com.experion.tests.AutomatedScenario@568ff82] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyTheAscendingSortingByPrice()[pri:0, instance:com.experion.tests.AutomatedScenario@568ff82]" started-at="2025-03-28T14:54:41 IST" name="VerifyTheAscendingSortingByPrice" finished-at="2025-03-28T14:54:43 IST" duration-ms="1710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTheAscendingSortingByPrice -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.experion.tests.AutomatedScenario@568ff82]" started-at="2025-03-28T14:54:43 IST" name="tearDown" finished-at="2025-03-28T14:54:43 IST" duration-ms="385" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyTheAscendingSortingByPrice status=SUCCESS method=AutomatedScenario.VerifyTheAscendingSortingByPrice()[pri:0, instance:com.experion.tests.AutomatedScenario@568ff82] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String,org.testng.ITestResult)[pri:0, instance:com.experion.tests.AutomatedScenario@568ff82]" started-at="2025-03-28T14:54:43 IST" name="setUp" finished-at="2025-03-28T14:54:44 IST" duration-ms="983" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AutomatedScenario.VerifyTheCheckOut()[pri:0, instance:com.experion.tests.AutomatedScenario@568ff82] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyTheCheckOut()[pri:0, instance:com.experion.tests.AutomatedScenario@568ff82]" started-at="2025-03-28T14:54:44 IST" name="VerifyTheCheckOut" finished-at="2025-03-28T14:54:51 IST" duration-ms="6977" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTheCheckOut -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.experion.tests.AutomatedScenario@568ff82]" started-at="2025-03-28T14:54:51 IST" name="tearDown" finished-at="2025-03-28T14:54:52 IST" duration-ms="327" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyTheCheckOut status=SUCCESS method=AutomatedScenario.VerifyTheCheckOut()[pri:0, instance:com.experion.tests.AutomatedScenario@568ff82] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String,org.testng.ITestResult)[pri:0, instance:com.experion.tests.AutomatedScenario@568ff82]" started-at="2025-03-28T14:54:52 IST" name="setUp" finished-at="2025-03-28T14:54:53 IST" duration-ms="1115" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AutomatedScenario.VerifyTheDefaultSortingByNameAscending()[pri:0, instance:com.experion.tests.AutomatedScenario@568ff82] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyTheDefaultSortingByNameAscending()[pri:0, instance:com.experion.tests.AutomatedScenario@568ff82]" started-at="2025-03-28T14:54:53 IST" name="VerifyTheDefaultSortingByNameAscending" finished-at="2025-03-28T14:54:54 IST" duration-ms="1369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTheDefaultSortingByNameAscending -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.experion.tests.AutomatedScenario@568ff82]" started-at="2025-03-28T14:54:54 IST" name="tearDown" finished-at="2025-03-28T14:54:54 IST" duration-ms="318" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyTheDefaultSortingByNameAscending status=SUCCESS method=AutomatedScenario.VerifyTheDefaultSortingByNameAscending()[pri:0, instance:com.experion.tests.AutomatedScenario@568ff82] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String,org.testng.ITestResult)[pri:0, instance:com.experion.tests.AutomatedScenario@568ff82]" started-at="2025-03-28T14:54:54 IST" name="setUp" finished-at="2025-03-28T14:54:55 IST" duration-ms="1153" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AutomatedScenario.VerifyTheDescendingSortingByName()[pri:0, instance:com.experion.tests.AutomatedScenario@568ff82] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyTheDescendingSortingByName()[pri:0, instance:com.experion.tests.AutomatedScenario@568ff82]" started-at="2025-03-28T14:54:55 IST" name="VerifyTheDescendingSortingByName" finished-at="2025-03-28T14:54:57 IST" duration-ms="1464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTheDescendingSortingByName -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.experion.tests.AutomatedScenario@568ff82]" started-at="2025-03-28T14:54:57 IST" name="tearDown" finished-at="2025-03-28T14:54:57 IST" duration-ms="285" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyTheDescendingSortingByName status=SUCCESS method=AutomatedScenario.VerifyTheDescendingSortingByName()[pri:0, instance:com.experion.tests.AutomatedScenario@568ff82] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String,org.testng.ITestResult)[pri:0, instance:com.experion.tests.AutomatedScenario@568ff82]" started-at="2025-03-28T14:54:57 IST" name="setUp" finished-at="2025-03-28T14:54:58 IST" duration-ms="1018" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=AutomatedScenario.VerifyTheDescendingSortingByPrice()[pri:0, instance:com.experion.tests.AutomatedScenario@568ff82] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyTheDescendingSortingByPrice()[pri:0, instance:com.experion.tests.AutomatedScenario@568ff82]" started-at="2025-03-28T14:54:58 IST" name="VerifyTheDescendingSortingByPrice" finished-at="2025-03-28T14:55:00 IST" duration-ms="1722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTheDescendingSortingByPrice -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.experion.tests.AutomatedScenario@568ff82]" started-at="2025-03-28T14:55:00 IST" name="tearDown" finished-at="2025-03-28T14:55:00 IST" duration-ms="250" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyTheDescendingSortingByPrice status=SUCCESS method=AutomatedScenario.VerifyTheDescendingSortingByPrice()[pri:0, instance:com.experion.tests.AutomatedScenario@568ff82] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.experion.tests.AutomatedScenario -->
+      <class name="com.experion.tests.LoginTests">
+        <test-method is-config="true" signature="setupSuite()[pri:0, instance:com.experion.tests.LoginTests@55740540]" started-at="2025-03-28T14:54:13 IST" name="setupSuite" finished-at="2025-03-28T14:54:13 IST" duration-ms="250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupSuite -->
+        <test-method is-config="true" signature="setUp(java.lang.String,org.testng.ITestResult)[pri:0, instance:com.experion.tests.LoginTests@55740540]" started-at="2025-03-28T14:54:13 IST" name="setUp" finished-at="2025-03-28T14:54:16 IST" duration-ms="3645" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=LoginTests.loginWithInvalidPassword()[pri:0, instance:com.experion.tests.LoginTests@55740540] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginWithInvalidPassword()[pri:0, instance:com.experion.tests.LoginTests@55740540]" started-at="2025-03-28T14:54:16 IST" name="loginWithInvalidPassword" finished-at="2025-03-28T14:54:18 IST" duration-ms="1246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithInvalidPassword -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.experion.tests.LoginTests@55740540]" started-at="2025-03-28T14:54:18 IST" name="tearDown" finished-at="2025-03-28T14:54:18 IST" duration-ms="334" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginWithInvalidPassword status=SUCCESS method=LoginTests.loginWithInvalidPassword()[pri:0, instance:com.experion.tests.LoginTests@55740540] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String,org.testng.ITestResult)[pri:0, instance:com.experion.tests.LoginTests@55740540]" started-at="2025-03-28T14:54:18 IST" name="setUp" finished-at="2025-03-28T14:54:19 IST" duration-ms="960" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=LoginTests.successfulLoginTest(java.lang.String,java.lang.String)[pri:0, instance:com.experion.tests.LoginTests@55740540] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="successfulLoginTest(java.lang.String,java.lang.String)[pri:0, instance:com.experion.tests.LoginTests@55740540]" started-at="2025-03-28T14:54:19 IST" name="successfulLoginTest" data-provider="validLoginData" finished-at="2025-03-28T14:54:21 IST" duration-ms="1485" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successfulLoginTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.experion.tests.LoginTests@55740540]" started-at="2025-03-28T14:54:21 IST" name="tearDown" finished-at="2025-03-28T14:54:21 IST" duration-ms="306" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=successfulLoginTest status=SUCCESS method=LoginTests.successfulLoginTest(java.lang.String,java.lang.String)[pri:0, instance:com.experion.tests.LoginTests@55740540] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String,org.testng.ITestResult)[pri:0, instance:com.experion.tests.LoginTests@55740540]" started-at="2025-03-28T14:54:21 IST" name="setUp" finished-at="2025-03-28T14:54:22 IST" duration-ms="909" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=LoginTests.successfulLoginTest(java.lang.String,java.lang.String)[pri:0, instance:com.experion.tests.LoginTests@55740540] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="successfulLoginTest(java.lang.String,java.lang.String)[pri:0, instance:com.experion.tests.LoginTests@55740540]" started-at="2025-03-28T14:54:22 IST" name="successfulLoginTest" data-provider="validLoginData" finished-at="2025-03-28T14:54:33 IST" duration-ms="11693" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[performance_glitch_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successfulLoginTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.experion.tests.LoginTests@55740540]" started-at="2025-03-28T14:54:33 IST" name="tearDown" finished-at="2025-03-28T14:54:34 IST" duration-ms="382" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=successfulLoginTest status=SUCCESS method=LoginTests.successfulLoginTest(java.lang.String,java.lang.String)[pri:0, instance:com.experion.tests.LoginTests@55740540] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String,org.testng.ITestResult)[pri:0, instance:com.experion.tests.LoginTests@55740540]" started-at="2025-03-28T14:54:34 IST" name="setUp" finished-at="2025-03-28T14:54:35 IST" duration-ms="920" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=LoginTests.successfulLoginTest(java.lang.String,java.lang.String)[pri:0, instance:com.experion.tests.LoginTests@55740540] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="successfulLoginTest(java.lang.String,java.lang.String)[pri:0, instance:com.experion.tests.LoginTests@55740540]" started-at="2025-03-28T14:54:35 IST" name="successfulLoginTest" data-provider="validLoginData" finished-at="2025-03-28T14:54:37 IST" duration-ms="1796" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[visual_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successfulLoginTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.experion.tests.LoginTests@55740540]" started-at="2025-03-28T14:54:37 IST" name="tearDown" finished-at="2025-03-28T14:54:37 IST" duration-ms="476" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=successfulLoginTest status=SUCCESS method=LoginTests.successfulLoginTest(java.lang.String,java.lang.String)[pri:0, instance:com.experion.tests.LoginTests@55740540] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDownSuite()[pri:0, instance:com.experion.tests.LoginTests@55740540]" started-at="2025-03-28T14:55:00 IST" name="tearDownSuite" finished-at="2025-03-28T14:55:01 IST" duration-ms="346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownSuite -->
+      </class> <!-- com.experion.tests.LoginTests -->
+    </test> <!-- ChromeTests -->
+  </suite> <!-- Experion Test Suite -->
+</testng-results>
