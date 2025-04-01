@@ -5,15 +5,18 @@
   <test thread-count="5" name="ChromeTests(failed)" verbose="0">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.experion.tests.LoginTests">
+      <class name="com.experion.tests.AutomatedScenario">
         <methods>
           <include name="setupSuite"/>
           <include name="tearDownSuite"/>
-          <include name="invalidLoginTest"/>
+          <include name="VerifyTheDescendingSortingByName"/>
+          <include name="VerifyTheCheckOut"/>
+          <include name="VerifyTheDescendingSortingByPrice"/>
+          <include name="VerifyTheDefaultSortingByNameAscending"/>
           <include name="setUp"/>
           <include name="tearDown"/>
         </methods>
-      </class> <!-- com.experion.tests.LoginTests -->
+      </class> <!-- com.experion.tests.AutomatedScenario -->
     </classes>
   </test> <!-- ChromeTests(failed) -->
 </suite> <!-- Failed suite [Experion Test Suite] -->
